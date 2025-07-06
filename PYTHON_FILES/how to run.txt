@@ -1,0 +1,15 @@
+install following libraries
+
+pyqt5 
+pyqt5-tools
+matplotlib
+OpenCV
+svgpathtools
+numpy
+numba
+potrace
+
+on command line navigate to this folder then type
+
+python .\MY_APP.py
+
